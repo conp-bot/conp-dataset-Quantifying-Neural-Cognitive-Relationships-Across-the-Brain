@@ -39,6 +39,7 @@
             },
             "access": {
                 "landingPage": "https://osf.io/xhvsk/",
+                "accessURL": "https://files.us.osf.io/v1/resources/znt9d/providers/osfstorage/?zip=xhvsk",
                 "authorizations": [
                     {
                         "value": "public"
