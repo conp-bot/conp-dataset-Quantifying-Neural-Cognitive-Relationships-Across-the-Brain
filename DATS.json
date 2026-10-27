@@ -33,13 +33,38 @@
     ],
     "distributions": [
         {
-            "size": 220.6,
+            "title": "Participant level contrast maps",
+            "identifier": {
+                "identifier": "https://osf.io/pny28/",
+                "identifierSource": "OSF"
+            },
+            "size": 220.59,
             "unit": {
                 "value": "MB"
             },
             "access": {
                 "landingPage": "https://osf.io/xhvsk/",
-                "accessURL": "https://files.us.osf.io/v1/resources/znt9d/providers/osfstorage/?zip=xhvsk",
+                "accessURL": "https://files.us.osf.io/v1/resources/pny28/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Behavioral data",
+            "identifier": {
+                "identifier": "https://osf.io/px49j/",
+                "identifierSource": "OSF"
+            },
+            "size": 11.97,
+            "unit": {
+                "value": "KB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/xhvsk/",
+                "accessURL": "https://files.us.osf.io/v1/resources/px49j/providers/osfstorage/?zip=",
                 "authorizations": [
                     {
                         "value": "public"
